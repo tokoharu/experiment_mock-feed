@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<database version="1.0" date="2025-12-20">
+
+
+<players>
+<player id="1" disp_id="090006" name="Player1" surname="Player1" country="1" city="1" gender="1"  />
+<player id="2" disp_id="020303" name="Player2" surname="Player2" country="2" city="34" gender="1" />
+<player id="3" disp_id="030031" name="Player3" surname="Player3" country="7" city="11" gender="1" />
+</players>
+
+<tournaments>
+<tournament id="1" name="MOCK1" country="1" city="1" year="2026" month="4" start="2026-04-29" end="2026-05-05" rule="1" rated="1" />
+</tournaments>
+
+<games>
+<game id="1" publisher="1" tournament="1" round="F2" rule="1" black="1" white="2" bresult="0.5" btime="136" wtime="126" opening="21" alt="i8" swap="R">
+<move>h8 h9 h7 h6 i9 g7 f8 i8 f10 j7 k6 j8 i7 j6 j5 g8 f7 g10 f11 f9 g9 e11 j10 e7 f6 g4 i4 h3 h5 g6 g5 k5 i5 f5 i3 i6 i2 i1 h11 i11 k10 l10 l5 k4 l4 l6 k9 k11 l9 l7 m9 j9 k8 k7 n7 m8 d7 e10 n6 n5 m7 l8 f12 h12 e13 g11 f13 f14 g13 h13 i13 c10 c12</move>
+</game>
+<game id="2" publisher="1" tournament="1" round="F2" rule="1" black="2" white="3" bresult="0" btime="127" wtime="117" opening="24" alt="i7" swap="R">
+<move>h8 h9 h6 i10 i6 i9 g9 g8 j11 i7 h10 i11 i8 k9 j10 h7 g7 j9 l9 k8 l7 g12 h11 e10 d11 f11 h13 h12 i12 k10 k7 e8 f7 e9 e11 c8</move>
+</game>
+</games>
